@@ -1,6 +1,10 @@
 # COVID Cleaning Spray Bot
 ## Author
-Abdul Aziz Nassor
+
+
+Abdul Aziz Nassor - Get Path, Algorithm <br>
+Dr Shuihua Wang - Visualisation, Predefined class <br>
+
 
 ## Description
 
