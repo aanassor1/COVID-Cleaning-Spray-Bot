@@ -8,10 +8,14 @@ Dr Shuihua Wang - Visualisation, Predefined class <br>
 
 ## Description
 
-In the later semester of my second year in university, we were tasked with creating a bot that once placed on a 2D grid of cells, it will move around the cells and if the cell contains an object, spray it, and if it is a human, don't spray it.
+A program that creates a bot that once placed on a 2D grid of cells, it will move around the cells and if the cell contains an object, spray it, and if it is a human, don't spray it.
 
 During initation, the 2d grid of cells will randomly include a certain amount of objects to be sprayed, as well as humans which the bot should not spray at.
 
+## What I learnt
+* Python
+* Machine Learning Methods
+* 
 ## Installation
 
 Go onto Github, find the project and clone the repository.
