@@ -15,7 +15,7 @@ During initation, the 2d grid of cells will randomly include a certain amount of
 ## What I learnt
 * Python
 * Machine Learning Methods
-* 
+
 ## Installation
 
 Go onto Github, find the project and clone the repository.
